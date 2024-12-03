@@ -48,4 +48,5 @@ int main()
         iter++;
     }
     printf("\nThe value is %.4lf in iteration : %d",x,iter);
+    //Remeber when you will run this file...To run it you need to write gcc Iteration.c -lm
 }

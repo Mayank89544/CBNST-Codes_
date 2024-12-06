@@ -41,7 +41,7 @@ int main()
     a_yx = mean_y - (b_yx * mean_x);
 
     printf("\nThe equation of y on x is : y - %f = %f(x - %f)",mean_y,b_yx,mean_x);
-    printf("\nThe equation of x on y is : y - %f = %f(y - %f)",mean_x , b_xy , mean_y);
+    printf("\nThe equation of x on y is : x - %f = %f(y - %f)",mean_x , b_xy , mean_y);
 
 
 
